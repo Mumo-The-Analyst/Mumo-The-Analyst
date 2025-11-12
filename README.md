@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-Hi there, I am a Data Analyst who loves turning data into stories that inspire better decisions. 
+I am a Data Analyst who loves turning data into stories that inspire better decisions. 
 
 I work with Excel, SQL, Python, and Power BI to explore patterns, design dashboards, and uncover insights that help businesses grow and improve performance.
 
