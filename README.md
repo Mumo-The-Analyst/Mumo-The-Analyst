@@ -13,6 +13,7 @@
   <a href="mailto:mutisyamumo19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+
 ## 🚀 About Me 
 I am a Data Analyst who loves turning data into stories that inspire better decisions. 
 
@@ -24,17 +25,19 @@ I believe great analysis blends logic with creativity, and I’m always explorin
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://mumo-the-analyst.github.io)
+
       
-## 🔭 What I'm Currently Working On 
+## 🔭 My Interests
+- Big Data Analytics: Leveraging tools like Hadoop and Spark for data processing.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- Data Visualization: Creating impactful visual stories with Power BI and Tableau.
 
-## 🌱 Currently Learning 
+- Generative AI: Building Gen-AI tools for Augmented Generation (RAG) applications.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Data Engineering: Building data pipelines and optimizing database performance that support reliable analytics.
+
+- Machine Learning & AI: Building models that solve real-world problems.
+
 
 ## 🛠️ Technical Skillset
 
