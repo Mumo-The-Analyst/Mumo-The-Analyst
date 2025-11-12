@@ -14,11 +14,13 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+Hi there, I am a Data Analyst who loves turning data into stories that inspire better decisions. 
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I work with Excel, SQL, Python, and Power BI to explore patterns, design dashboards, and uncover insights that help businesses grow and improve performance.
 
-When I'm not working with data, I enjoy riding and travelling. I love the "aha!" moment when data reveals something new and useful.
+My portfolio highlights end-to-end data projects from cleaning messy datasets to visualizing insights in interactive dashboards. 
+
+I believe great analysis blends logic with creativity, and I’m always exploring new ways to make data more insightful, accessible, and impactful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://mumo-the-analyst.github.io)
