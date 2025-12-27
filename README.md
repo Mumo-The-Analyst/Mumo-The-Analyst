@@ -1,4 +1,4 @@
-## Hi, there! It’s Mutisya Mumo! 👋
+## Hi, there! It’s Mutisya Onesmus! 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
